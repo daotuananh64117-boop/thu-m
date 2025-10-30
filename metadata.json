@@ -1,0 +1,5 @@
+{
+  "name": "thu âm",
+  "description": "Một ứng dụng studio thu âm cho phép người dùng chuyển đổi kịch bản thành giọng nói bằng AI, chọn giọng đọc, và tải xuống các tệp âm thanh đã tạo.",
+  "requestFramePermissions": []
+}
